@@ -1,7 +1,7 @@
 #import "FlutterUnityWidgetPlugin.h"
 #import <Foundation/Foundation.h>
-#if __has_include(<flutter_unity_widget/flutter_unity_widget-Swift.h>)
-#import <flutter_unity_widget/flutter_unity_widget-Swift.h>
+#if __has_include(<flutter_unity_widget_old/flutter_unity_widget-Swift.h>)
+#import <flutter_unity_widget_old/flutter_unity_widget-Swift.h>
 #else
 // Support project import fallback if the generated compatibility header
 // is not copied when this plugin is created as a library.
