@@ -3,7 +3,7 @@
 # Run `pod lib lint flutter_unity_widget.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_unity_widget'
+  s.name             = 'flutter_unity_widget_old'
   s.version          = '4.0.0'
   s.summary          = 'Flutter unity 3D widget for embedding unity in flutter'
   s.description      = <<-DESC
